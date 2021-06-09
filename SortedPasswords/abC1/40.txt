@@ -1,0 +1,2 @@
+api_id=4method=getFriendsv=3.0api_secret
+m1DX72e9,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,

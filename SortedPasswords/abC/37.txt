@@ -1,0 +1,1 @@
+adminPhp-Jokesite admin authorization

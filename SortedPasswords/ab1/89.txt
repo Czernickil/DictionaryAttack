@@ -1,0 +1,1 @@
+"server=87.106.132.95; user id=nanitorap; password=judith28; database=vip-engine_judith;"
